@@ -49,3 +49,5 @@ echo  '---------------------------------------------------'
 echo 
 echo  '=== Framework ==='
 CMD_WRAPPER $LIGHT_RED Laravel laravel -V
+
+read -n 1 -s -r -p "Press any key to continue"
