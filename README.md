@@ -1,6 +1,13 @@
 # all-cli-version-PS
 Script powershell to get version of modern cli for developers
 
+## How to use
+- Download/clone this repo
+- extract it. 
+- Open powershell on windows
+- navigating into directory of this download location
+- type `.\cli-v.ps1`
+
 ## How to Contribute
 If you want to contribute to this Repo, please follow this step
 - Fork this repo
