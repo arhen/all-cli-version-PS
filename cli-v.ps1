@@ -17,6 +17,8 @@ write-Host ''
 Write-Host 'Python   : '  -ForegroundColor Red; if(Test-Command python --version){python --version}
 write-Host ''
 Write-Host 'Ruby     : '  -ForegroundColor blue; if(Test-Command ruby -v){ruby -v}
+write-Host ''
+Write-Host 'Go       : '  -ForegroundColor yellow; if(Test-Command go version){go version}
 
 Write-Host '---------------------------------------------------'
 
