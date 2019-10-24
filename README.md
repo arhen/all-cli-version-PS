@@ -9,6 +9,7 @@ Script powershell to get version of modern cli for developers
 - Open powershell on windows
 - navigating into directory of this download location
 - type `.\cli-v.ps1`
+- OR you just can right click file -> open with powershell
 
 ## How to Contribute
 If you want to contribute to this Repo, please follow this step
