@@ -35,3 +35,6 @@ Write-Host '---------------------------------------------------'
 
 Write-Host '=== Framework ==='
 Write-Host 'Laravel      : '-ForegroundColor DarkRed -NoNewline; if(Test-Command laravel -V){laravel -V}
+
+##pause until user press any key
+pause
