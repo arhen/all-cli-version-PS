@@ -30,3 +30,8 @@ Write-Host 'gulp        : ' ; if(Test-Command gulp -v){gulp -v}
 Write-Host 'yarn        : ' -NoNewline; if(Test-Command yarn -v){yarn -v}
 Write-Host 'pip         : ' -NoNewline; if(Test-Command pip --version){pip --version}
 Write-Host 'gem         : ' -NoNewline; if(Test-Command gem --version){gem --version}
+
+Write-Host '---------------------------------------------------'
+
+Write-Host '=== Framework ==='
+Write-Host 'Laravel      : '-ForegroundColor DarkRed -NoNewline; if(Test-Command laravel -V){laravel -V}
