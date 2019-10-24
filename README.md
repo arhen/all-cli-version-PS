@@ -1,6 +1,7 @@
 # all-cli-version-PS
 Script powershell to get version of modern cli for developers
-![cli_checking_version](https://media.giphy.com/media/Ze3NjFVfyxhEpZRuQC/200w_d.gif)
+
+[![cli37c31f2db06a714f.gif](https://s3.gifyu.com/images/cli37c31f2db06a714f.gif)](https://gifyu.com/image/kfZ4)
 
 ## How to use
 - Download/clone this repo
